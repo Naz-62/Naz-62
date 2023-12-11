@@ -1,0 +1,1 @@
+print("Merhaba Gündi Bu İlk Kodumuz Olsun")
