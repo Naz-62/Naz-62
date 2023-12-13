@@ -5,3 +5,8 @@ Kurmak için Şu Adımları İzleyebilirsiniz
         - Açlılan Terminale 
         - pip install -r requirements.txt 
         - Yazıp entera Basıyoruz.
+
+2- Projede Kullanılan Kütüphaneler Şu Şkeildedir
+
+        - PyQt5
+        - plotly
