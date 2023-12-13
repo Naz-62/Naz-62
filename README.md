@@ -1,14 +1,6 @@
-- 👋 Hi, I’m @Naz-62
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
-
-Merhaba Derslerim Adlı Bir Reporsity Açamanız Gerekiyordu sanırım
-
-<!---
-Naz-62/Naz-62 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+1-Adım Requistment.txt dosyası içerisinde Proje Kütüphanelerimiz Yer Almaktadır.
+Kurmak için Şu Komutu Kullanabilirsiniz 
+        - Proje içerisinde Sağ Tıklayıp terminal Açılır
+        - Açlılan Terminale 
+        - pip install -r requirements.txt 
+        - Yazıp entera Basıyoruz.
