@@ -1,0 +1,110 @@
+QWidget {
+    font: 12pt "Segoe UI";
+    background-color: #5CFFF;
+}
+
+QLabel {
+    color: #232323;
+    width: 100%;
+    height: 50px;
+}
+
+QLineEdit {
+    background-color: #FFFFFF;
+    color: #232323;
+    border: 1px solid #D5D5D5;
+    padding: 1px;
+    border-radius: 5px;
+}
+
+QPushButton {
+    background-color: #4CAF50;
+    color: #FFFFFF;
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+QPushButton:hover {
+    background-color: qlineargradient(x1:0, y1:0, x2:1, y2:1, stop:0 #4CAF50, stop:1 #3F9A45);
+}
+
+QPushButton:pressed {
+    background-color: qlineargradient(x1:0, y1:0, x2:1, y2:1, stop:0 #3F9A45, stop:1 #2A7A3E);
+}
+
+
+QComboBox {
+    border: 1px solid #D5D5D5;
+    padding: 2px;
+    border-radius: 5px;
+}
+
+QComboBox::drop-down {
+    border: none;
+}
+
+QComboBox::down-arrow {
+    image: url("down-arrow.png");
+}
+
+QComboBox QAbstractItemView {
+    border: 1px solid #D5D5D5;
+    selection-background-color: #E0E0E0;
+    border-radius: 5px;
+}
+QFrame {
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    border: 1px solid #dcdcdc;
+    padding: 4px;
+    width: 100%;
+    height: 50px;
+}
+
+
+QFrame QComboBox, QFrame QPushButton QLabel {
+    min-height: 20px;
+    width: 100%;
+    height: 50px;
+}
+
+QFrame QLabel {
+    color: #333333;
+    font-size: 12px;
+    font-weight: bold;
+    width: 100%;
+    height: 50px;
+
+
+}
+QFrame QPushButton {
+    background-color: #4CAF50;
+    color: #FFFFFF;
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+QFrame QPushButton:hover {
+    background-color: qlineargradient(x1:0, y1:0, x2:1, y2:1, stop:0 #4CAF50, stop:1 #3F9A45);}
+
+QFrame QPushButton:pressed {
+    background-color: qlineargradient(x1:0, y1:0, x2:1, y2:1, stop:0 #3F9A45, stop:1 #2A7A3E);}
+
+QMessageBox {
+                background-color: #EBECF0;
+                color: #ecf0f1;
+                font-family: "Segoe UI";
+                font-size: 12pt;
+            }
+
+
+
+QLineEdit, QPushButton, QLabel, QComboBox, QFrame,QGroupBox {
+    width: 100%;
+    height: 50px;
+}
+
