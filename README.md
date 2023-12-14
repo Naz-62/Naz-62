@@ -1,10 +1,10 @@
 1-Adım Requistment.txt dosyası içerisinde Proje Kütüphanelerimiz Yer Almaktadır.
 Kurmak için Şu Adımları İzleyebilirsiniz
 
-        - Proje içerisinde Sağ Tıklayıp terminal Açılır
-        - Açlılan Terminale 
-        - pip install -r requirements.txt 
-        - Yazıp entera Basıyoruz.
+        1. Proje içerisinde Sağ Tıklayıp terminal Açılır
+        2. Açlılan Terminale 
+        3. pip install -r requirements.txt 
+        4. Yazıp entera Basıyoruz.
 
 2- Projede Kullanılan Kütüphaneler Şu Şkeildedir
 
