@@ -1,4 +1,4 @@
-            Ubuntu iöin hazırlanan Program Scriptinin Kurulumu:
+            Ubuntu için hazırlanan Program Scriptinin Kurulumu:
 1-Adımda Ubuntu Kurulum Klasörü içerisine girilir , Sağ Tıklayıp Yeni Bir Terminal Açılır. Açılan Bu Terminale:
 
         chmod +x program_kurulumu.sh
